@@ -1,6 +1,6 @@
 // Exported from:        http://Jans-MBP:5516/#/templates/Folder93a17e3a0e4841c284f6d99fd16e4b90-Release991478d227a345a1b2446f8369b79504/releasefile
 // Release version:      9.7.0-SNAPSHOT
-// Date created:         Tue Sep 29 16:29:57 CEST 2020
+// Date created:         Tue Sep 29 16:34:26 CEST 2020
 
 xlr {
   template('demo template 2') {
