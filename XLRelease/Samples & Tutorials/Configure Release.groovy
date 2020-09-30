@@ -1,6 +1,6 @@
 // Exported from:        http://Jans-MacBook-Pro.local:5516/#/templates/FolderSamplesAndTutorials-ReleaseTemplate_configure/releasefile
 // Release version:      9.7.0-SNAPSHOT
-// Date created:         Wed Sep 30 17:42:48 CEST 2020
+// Date created:         Wed Sep 30 17:45:21 CEST 2020
 
 xlr {
   template('Configure Release') {
